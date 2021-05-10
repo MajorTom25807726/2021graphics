@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620624815 source:c:\users\administrator\desktop\week12\gundam_auto.cpp
+	<windows.h>
+	<GL\gl.h>
+	<GL\glu.h>
+	<math.h>
+
+1620625531 source:c:\users\administrator\desktop\week12\gundam_auto_2.cpp
+	<windows.h>
+	<GL\gl.h>
+	<GL\glu.h>
+	<math.h>
+
